@@ -1,0 +1,15 @@
+{
+  "name": "Hermex Travels Token",
+  "symbol": "HMEX",
+  "uri": "https://raw.githubusercontent.com/Hermex-Services/hermex-token-update/main/logo.png",
+  "decimals": 9,
+  "properties": {
+    "category": "image",
+    "creators": [
+      {
+        "address": "HVWsygxLFeH6boZZCmFwRQ7EHsVvmzyHJDndoJJQWUyo",
+        "share": 100
+      }
+    ]
+  }
+}
