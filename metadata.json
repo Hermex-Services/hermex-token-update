@@ -1,15 +1,8 @@
+
 {
-  "name": "Hermex Travels Token",
+  "name": ""Hermex Travels Token"",
   "symbol": "HMEX",
-  "uri": "https://raw.githubusercontent.com/Hermex-Services/hermex-token-update/main/logo.png",
-  "decimals": 9,
-  "properties": {
-    "category": "image",
-    "creators": [
-      {
-        "address": "HVWsygxLFeH6boZZCmFwRQ7EHsVvmzyHJDndoJJQWUyo",
-        "share": 100
-      }
-    ]
-  }
+  "description": "HMEX Token is the utility token for Hermex Travels, enabling seamless travel transactions and rewarding users with exclusive offers. Built on the Solana blockchain, HMEX empowers travelers by providing reduced fees, loyalty rewards, and access to premium features within the Hermex platform. Join us to enhance your travel experiences while enjoying the benefits of a blockchain-based economy.",
+
+  "image": "https://raw.githubusercontent.com/Hermex-Services/hermex-token-update/main/logo.png"
 }
